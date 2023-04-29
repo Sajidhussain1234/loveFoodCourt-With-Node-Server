@@ -1,0 +1,359 @@
+
+[
+    {
+        "id": 2,
+        "attributes": {
+            "title": "Zinger Burger",
+            "description": "A portrait of our hero- crispy Zinger fillet, signature mayo and lettuce- sandwiched between a sesame seed bun",
+            "price": 520,
+            "createdAt": "2023-03-29T08:37:57.358Z",
+            "updatedAt": "2023-03-29T12:02:59.021Z",
+            "publishedAt": "2023-03-29T09:09:28.197Z",
+            "categoryID": "1",
+            "categoryName": "KFC",
+            "productID": "1",
+            "image": {
+                "data": [
+                    {
+                        "id": 13,
+                        "attributes": {
+                            "name": "zinger burger.png",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 500,
+                            "height": 500,
+                            "formats": {
+                                "thumbnail": {
+                                    "name": "thumbnail_zinger burger.png",
+                                    "hash": "thumbnail_zinger_burger_e6cc15af47",
+                                    "ext": ".png",
+                                    "mime": "image/png",
+                                    "path": null,
+                                    "width": 156,
+                                    "height": 156,
+                                    "size": 50.36,
+                                    "url": "/uploads/thumbnail_zinger_burger_e6cc15af47.png"
+                                }
+                            },
+                            "hash": "zinger_burger_e6cc15af47",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "size": 96.13,
+                            "url": "/uploads/zinger_burger_e6cc15af47.png",
+                            "previewUrl": null,
+                            "provider": "local",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-29T09:25:53.504Z",
+                            "updatedAt": "2023-03-29T09:25:53.504Z"
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 3,
+        "attributes": {
+            "title": "Twister",
+            "description": "Tender chicken strips, black pepper mayo, diced tomatoes and lettuce- wrapped in a tortilla",
+            "price": 380,
+            "createdAt": "2023-03-29T09:08:28.450Z",
+            "updatedAt": "2023-03-29T12:02:18.550Z",
+            "publishedAt": "2023-03-29T09:36:18.109Z",
+            "categoryID": "1",
+            "categoryName": "KFC",
+            "productID": "1",
+            "image": {
+                "data": [
+                    {
+                        "id": 11,
+                        "attributes": {
+                            "name": "twister.png",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 500,
+                            "height": 500,
+                            "formats": {
+                                "thumbnail": {
+                                    "name": "thumbnail_twister.png",
+                                    "hash": "thumbnail_twister_ef1afe984a",
+                                    "ext": ".png",
+                                    "mime": "image/png",
+                                    "path": null,
+                                    "width": 156,
+                                    "height": 156,
+                                    "size": 44.97,
+                                    "url": "/uploads/thumbnail_twister_ef1afe984a.png"
+                                }
+                            },
+                            "hash": "twister_ef1afe984a",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "size": 85.08,
+                            "url": "/uploads/twister_ef1afe984a.png",
+                            "previewUrl": null,
+                            "provider": "local",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-29T09:22:07.480Z",
+                            "updatedAt": "2023-03-29T09:22:45.126Z"
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 4,
+        "attributes": {
+            "title": "Zinger Stacker",
+            "description": "Double chicken fillet, jalapenos, spicy mayo, lettuce and cheese with our signature Vietnamese Sauce- sandwiched between a sesame seed bun",
+            "price": 560,
+            "createdAt": "2023-03-29T09:21:32.724Z",
+            "updatedAt": "2023-03-29T12:03:07.740Z",
+            "publishedAt": "2023-03-29T09:21:35.050Z",
+            "categoryID": "2",
+            "categoryName": "McDonald",
+            "productID": "2",
+            "image": {
+                "data": [
+                    {
+                        "id": 12,
+                        "attributes": {
+                            "name": "zinger stocker.png",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 500,
+                            "height": 500,
+                            "formats": {
+                                "thumbnail": {
+                                    "name": "thumbnail_zinger stocker.png",
+                                    "hash": "thumbnail_zinger_stocker_3531bca11d",
+                                    "ext": ".png",
+                                    "mime": "image/png",
+                                    "path": null,
+                                    "width": 156,
+                                    "height": 156,
+                                    "size": 53.05,
+                                    "url": "/uploads/thumbnail_zinger_stocker_3531bca11d.png"
+                                }
+                            },
+                            "hash": "zinger_stocker_3531bca11d",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "size": 97.13,
+                            "url": "/uploads/zinger_stocker_3531bca11d.png",
+                            "previewUrl": null,
+                            "provider": "local",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-29T09:24:55.047Z",
+                            "updatedAt": "2023-03-29T09:25:27.773Z"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+]
+
+
+// qs products ------------------------------------------------
+
+{
+    "data": [
+        {
+            "id": 2,
+            "attributes": {
+                "title": "Zinger Burger",
+                "description": "A portrait of our hero- crispy Zinger fillet, signature mayo and lettuce- sandwiched between a sesame seed bun",
+                "price": 520,
+                "createdAt": "2023-03-29T08:37:57.358Z",
+                "updatedAt": "2023-03-29T12:02:59.021Z",
+                "publishedAt": "2023-03-29T09:09:28.197Z",
+                "categoryID": "1",
+                "categoryName": "KFC",
+                "image": {
+                    "data": [
+                        {
+                            "id": 13,
+                            "attributes": {
+                                "name": "zinger burger.png",
+                                "alternativeText": null,
+                                "caption": null,
+                                "width": 500,
+                                "height": 500,
+                                "formats": {
+                                    "thumbnail": {
+                                        "name": "thumbnail_zinger burger.png",
+                                        "hash": "thumbnail_zinger_burger_e6cc15af47",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "path": null,
+                                        "width": 156,
+                                        "height": 156,
+                                        "size": 50.36,
+                                        "url": "/uploads/thumbnail_zinger_burger_e6cc15af47.png"
+                                    }
+                                },
+                                "hash": "zinger_burger_e6cc15af47",
+                                "ext": ".png",
+                                "mime": "image/png",
+                                "size": 96.13,
+                                "url": "/uploads/zinger_burger_e6cc15af47.png",
+                                "previewUrl": null,
+                                "provider": "local",
+                                "provider_metadata": null,
+                                "createdAt": "2023-03-29T09:25:53.504Z",
+                                "updatedAt": "2023-03-29T09:25:53.504Z"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": 3,
+            "attributes": {
+                "title": "Twister",
+                "description": "Tender chicken strips, black pepper mayo, diced tomatoes and lettuce- wrapped in a tortilla",
+                "price": 380,
+                "createdAt": "2023-03-29T09:08:28.450Z",
+                "updatedAt": "2023-03-29T12:02:18.550Z",
+                "publishedAt": "2023-03-29T09:36:18.109Z",
+                "categoryID": "1",
+                "categoryName": "KFC",
+                "image": {
+                    "data": [
+                        {
+                            "id": 11,
+                            "attributes": {
+                                "name": "twister.png",
+                                "alternativeText": null,
+                                "caption": null,
+                                "width": 500,
+                                "height": 500,
+                                "formats": {
+                                    "thumbnail": {
+                                        "name": "thumbnail_twister.png",
+                                        "hash": "thumbnail_twister_ef1afe984a",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "path": null,
+                                        "width": 156,
+                                        "height": 156,
+                                        "size": 44.97,
+                                        "url": "/uploads/thumbnail_twister_ef1afe984a.png"
+                                    }
+                                },
+                                "hash": "twister_ef1afe984a",
+                                "ext": ".png",
+                                "mime": "image/png",
+                                "size": 85.08,
+                                "url": "/uploads/twister_ef1afe984a.png",
+                                "previewUrl": null,
+                                "provider": "local",
+                                "provider_metadata": null,
+                                "createdAt": "2023-03-29T09:22:07.480Z",
+                                "updatedAt": "2023-03-29T09:22:45.126Z"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": 4,
+            "attributes": {
+                "title": "Zinger Stacker",
+                "description": "Double chicken fillet, jalapenos, spicy mayo, lettuce and cheese with our signature Vietnamese Sauce- sandwiched between a sesame seed bun",
+                "price": 560,
+                "createdAt": "2023-03-29T09:21:32.724Z",
+                "updatedAt": "2023-03-29T12:03:07.740Z",
+                "publishedAt": "2023-03-29T09:21:35.050Z",
+                "categoryID": "2",
+                "categoryName": "McDonald",
+                "image": {
+                    "data": [
+                        {
+                            "id": 12,
+                            "attributes": {
+                                "name": "zinger stocker.png",
+                                "alternativeText": null,
+                                "caption": null,
+                                "width": 500,
+                                "height": 500,
+                                "formats": {
+                                    "thumbnail": {
+                                        "name": "thumbnail_zinger stocker.png",
+                                        "hash": "thumbnail_zinger_stocker_3531bca11d",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "path": null,
+                                        "width": 156,
+                                        "height": 156,
+                                        "size": 53.05,
+                                        "url": "/uploads/thumbnail_zinger_stocker_3531bca11d.png"
+                                    }
+                                },
+                                "hash": "zinger_stocker_3531bca11d",
+                                "ext": ".png",
+                                "mime": "image/png",
+                                "size": 97.13,
+                                "url": "/uploads/zinger_stocker_3531bca11d.png",
+                                "previewUrl": null,
+                                "provider": "local",
+                                "provider_metadata": null,
+                                "createdAt": "2023-03-29T09:24:55.047Z",
+                                "updatedAt": "2023-03-29T09:25:27.773Z"
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "page": 1,
+            "pageSize": 25,
+            "pageCount": 1,
+            "total": 3
+        }
+    }
+}
+
+
+
+// qs category  =============================================================
+
+{
+    "data": [
+        {
+            "id": 1,
+            "attributes": {
+                "name": "KFC",
+                "createdAt": "2023-03-29T12:10:08.924Z",
+                "updatedAt": "2023-03-29T12:16:56.396Z",
+                "publishedAt": "2023-03-29T12:16:56.392Z",
+                "slug": "kfc"
+            }
+        },
+        {
+            "id": 2,
+            "attributes": {
+                "name": "McDonald",
+                "createdAt": "2023-03-29T12:10:52.618Z",
+                "updatedAt": "2023-03-29T12:17:05.022Z",
+                "publishedAt": "2023-03-29T12:17:05.020Z",
+                "slug": "mcdonald"
+            }
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "page": 1,
+            "pageSize": 25,
+            "pageCount": 1,
+            "total": 2
+        }
+    }
+}
